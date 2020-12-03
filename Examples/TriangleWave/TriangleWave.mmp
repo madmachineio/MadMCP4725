@@ -1,0 +1,8 @@
+# This is a MadMachine project file generated automatically.
+
+board = "SwiftIOBoard"
+type = "executable"
+dependencies = [
+    "SwiftIO",
+    "MadMCP4725"
+]
